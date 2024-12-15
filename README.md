@@ -2,7 +2,7 @@ User Management Backend with Node.js, Prisma, and PostgreSQL
 
 Live API Endpoint: https://user-management-server-iejx.onrender.com/api/user
 
-This is a simple yet scalable CRUD application designed for managing users. The backend is built using Node.js, Prisma ORM, and a PostgreSQL database. It follows best practices for a modular, extensible, and secure system.
+This is a simple yet scalable CRUD application designed for managing users. The backend is built using Node.js, Prisma ORM, and a PostgreSQL database, with a free PostgreSQL instance provided by Aiven for cloud-based database management. It follows best practices for a modular, extensible, and secure system.
 
 Key Features:
 
